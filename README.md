@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a chat app in C++
+- 🌱 I’m currently learning advanced C++ skills
+- 📫 How to reach me : Discord <unguest#3825> or by mail <unguestdev@gmail.com>
+
+I'm Arthur, a 18 y.o developer. I'm fond of I.T/Programming/Security/Sciences since ever. You may have a look at my website <https://arthurpons.fr> to know a bit more about me.
+
 <!--
 **unguest/unguest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
