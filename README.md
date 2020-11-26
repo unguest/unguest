@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a good project...
+- 🔭 I’m currently working on a Python project for Orange :smile:
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me : Discord <unguest#0001> or by mail <unguestdev@gmail.com>
 
