@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Python project for Orange :smile:
+- 🔭 I’m currently working on a Powershell project for Orange :smile:
 - 🌱 I’m currently learning Rust
+- 💾 I mostly use Github as a cloud drive so only few things may be relevant on it...
 - 📫 How to reach me : Discord <unguest#0001> or by mail <unguestdev@gmail.com>
 
 I'm Arthur, a 18 y.o developer. I'm fond of I.T/Programming/Security/Sciences since ever. You may have a look at my website <https://arthurpons.fr> to know a bit more about me.
